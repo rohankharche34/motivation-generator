@@ -1,4 +1,4 @@
-# Daily-motivation-generator-using-GenAI
+# motivation-generator
 
 # Daily Motivation Generator
 
